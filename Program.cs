@@ -1,4 +1,4 @@
-namespace WinFormsApp2
+namespace EmployeeManagement
 {
     internal static class Program
     {
